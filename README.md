@@ -12,6 +12,10 @@ Ce projet implémente un réseau de neurones artificiels pour distinguer deux ty
 - Affichage des courbes de **log loss** et de **précision** pendant l’entraînement.
 - Évaluation du modèle sur les ensembles d'entraînement et de test.
 
+## Fichiers de données
+
+Le fichier `datasets` contient les données nécessaires pour l'entraînement et le test du modèle, incluant les ensembles d'images étiquetées pour les **chats** et **chiens**.
+
 ## Prérequis
 
 Pour exécuter ce projet, vous devez avoir installé les bibliothèques suivantes :
